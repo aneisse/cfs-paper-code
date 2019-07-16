@@ -14,11 +14,13 @@ Submitted to the *Statistical Methods in Medical Research*.
 
 ### Data availability
 
-By request of the data provider, the data for this paper could not be shared together with the code. However, some details on the dataset as well as the structure and type of variables can be found on the paper at the *Statistical Methods in Medical Research*.
+By request of the data provider, the data for this paper could not be shared with the code. However, some details on the dataset as well as the structure and type of variables can be found on the paper at the *Statistical Methods in Medical Research*.
 
 ### How to reproduce the results
 
 The methodology used in the study is robust to random number generation, therefore there is no seed in the code. As a result, the final results might be slightly numerically different from the presented in the paper but there should be no difference in the conclusions.
 
 The script `Analysis_reproduction.R` should be executed first, which sources `auxiliary_functions.R` on the run. The script `figure-table_reproduction.R` contains code to reproduce the table and figures presented in this paper.
+
+The `roc_example.R` file is an independent file that produces the ROC curve example presented in the paper.
 
