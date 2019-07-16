@@ -1,3 +1,4 @@
-# Reproducible code for the paper entitled "Chronic fatigue syndrome and its relation with absenteeism: Elastic-net and stepwise applied to biochemical and anthropometric clinical measurements"
+# Reproducible code for the paper entitled:
 
-The full article can be found on ""
+**Chronic fatigue syndrome and its relation with absenteeism:** 
+Elastic-net and stepwise applied to biochemical and anthropometric clinical measurements
